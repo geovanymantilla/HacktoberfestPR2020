@@ -329,3 +329,8 @@
 - Place: Selangor, Malaysia 🇲🇾
 - Bio: Fullstack Developer
 - GitHub: [haqqiem](https://github.com/haqqiem)
+
+#### Name: Andres Beltran
+- Place: Cucuta, Colombia
+- Bio:  - Bio: Computer Science Student 
+- GitHub: [jhonatanbeltran](https://github.com/jhonatanbeltran)
